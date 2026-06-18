@@ -7,7 +7,11 @@ A lightweight, GUI-based PowerShell utility for sending raw hexadecimal bytes to
 - **Hex Formatting**: Automatically strips spaces and validates hex input.
 - **Real-time Logging**: Displays TX (Sent) and RX (Received) data in a scrollable terminal window.
 - **Portable**: No installation required; runs natively on Windows via PowerShell.
+
+
 <img width="446" height="498" alt="Screenshot 2026-06-18 101117" src="https://github.com/user-attachments/assets/cbba4f54-0ad8-4d53-a5ba-2ede499b128e" />
+
+
 ## Prerequisites
 - Windows OS
 - PowerShell 5.1 or later
